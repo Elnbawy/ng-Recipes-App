@@ -34,3 +34,6 @@ This project started as part of a Udemy course on Angular. Throughout the proces
 Understanding complex concepts: Breaking down intricate concepts like Observables and routing into smaller, digestible pieces.<br>
 Debugging and problem-solving: Learning to effectively identify and resolve errors in my code.<br>
 Applying theory to practice: Putting my theoretical knowledge into action through real-world implementation.<br>
+
+<h3>Preview :</h3>
+https://recipes-app-e4ac7.web.app
